@@ -40,7 +40,7 @@ export class HomeComponent implements OnInit {
    * Opens the PDF file in a new tab.
    */
   dowloadPdf() {
-    window.open('../assets/NEHEMIAS_HUAMAN_DEVELOPER_JUNIOR.pdf', '_blank');
+    window.open('../assets/CV_HUAMAN_SANTOS_DEVELOPER_JAVA.pdf', '_blank');
   } 
 
   /**
